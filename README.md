@@ -2,7 +2,7 @@
 
 <p>O objetivo deste projeto é apresentar para as meninas da comunidade Code Girls Santander, <em>conceitos iniciais acerca da programação de computadores</em>. </p>
 <p align="center">
-Vamos fazer um programinha que simula o <a href="JO KEN PO</a> ✊ ✋ ✌ (pedra, papel e tesoura).<br>
+Vamos fazer um programinha que simula o "JO KEN PO ✊ ✋ ✌ (pedra, papel e tesoura).<br>
 Jogadores: Usuário vs. Máquina<br>
 O melhor de 5 jogadas vence!<br><br>
     <img src="https://c.tenor.com/CACaU3WIOQYAAAAd/friends-monica-geller.gif" width="600" height="400" alt="jokenpo-monica-rachel">
